@@ -30,6 +30,9 @@ params:
   - name: email
     title: Get in Touch
     url: "mailto:mail@joestanley.org"
+  - name: twitter
+    title: Twitter
+    url: "https://www.x.com"
 
 menu:
   main:
