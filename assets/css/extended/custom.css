@@ -26,3 +26,8 @@
     --code-bg: rgb(245, 245, 245);
     --border:rgb(238, 238, 238)
 }
+
+p {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
