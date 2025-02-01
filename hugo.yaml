@@ -1,0 +1,47 @@
+baseURL: 'https://joestanley3.github.io/'
+languageCode: en-us
+title: Joe Stanley
+description: Waffles, Wordplay, and Worker's Rights. RVA.
+publishDir: docs
+theme: ["PaperMod"]
+
+params:
+  disableThemeToggle: true
+  hideFooter: true
+  disableScrollToTop: true
+  defaultTheme: auto
+  disableSpecial1stPost: true
+    
+  profileMode:
+    enabled: true
+    title: Joe Stanley # optional default will be site title
+    subtitle: versatile, like the potato.
+    imageUrl: "/img/profile.png" # optional
+    imageTitle: "Joe drinking coffee in a diner." # optional
+    imageWidth: 275 # custom size
+    imageHeight: 275 # custom size
+  socialIcons:
+  - name: bluesky
+    title: Bluesky
+    url: "https://bsky.app/profile/joestanley.org"
+  - name: cv
+    title: LinkedIn
+    url: "https://www.linkedin.com/in/josephstanley/"
+  - name: email
+    title: Get in Touch
+    url: "mailto:mail@joestanley.org"
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: about
+    name: About
+    url: /page/about/
+    weight: 20
+  - identifier: career
+    name: Career
+    url: /page/career/
+    weight: 30
