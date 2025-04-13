@@ -3,18 +3,19 @@ title: 'ReadMe'
 draft: false
 ---
 ---
-### About Me
+### Me, In Brief
 
-I'm based in Richmond VA, where I live with my partner and our cat, Nutmeg. I enjoy waffles, wordplay, and worker's rights. When I'm not exchanging labor for capital as a product manager, I play and design games, notably tabletop roleplaying games (TTPRGs). Otherwise, my time typically goes toward reading, finding joy in small acts of resistance to encroaching fascism, and avoiding exercise.
+I'm based in Richmond VA, where I live with my partner and our cat, Nutmeg. I enjoy waffles, wordplay, and worker's rights. When I'm not exchanging labor for capital as a product manager, I play and design games, notably tabletop roleplaying games (TTPRGs). Otherwise, my time typically goes toward reading, small acts of resistance to encroaching fascism, and avoiding exercise.
 
-### My Product Philosophy
+### Career TL;DR: 
 
 >You don't become a good ~~Communist~~ *Product Manager* by going to meetings or memorizing the [Manifesto](http://agilemanifesto.org). You do it on the streets. You do it with your fists. The rest is bullshit and you know it.
 
 *[Gregor Anghel](https://en.wikipedia.org/wiki/Comrade_Detective)*
 
+---
 
-### What I Do
+### Career
 
 The theme of my professional life has been:
 1. working at the intersection of people and technology, 
@@ -26,8 +27,6 @@ It's about getting to the type of place you can't reach by improving business as
 Inevitably, a constraint fundamental to how the company works will be uncovered, and my job shifts to eliminating that constraint. This usually takes the form of building a modern platform to replace something that hasn't been touched in years, if not decades.
 
 It's slow, exhausting, and transformative. I love it.
-
----
 
 ### Experience
 
