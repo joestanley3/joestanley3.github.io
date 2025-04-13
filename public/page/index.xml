@@ -8,32 +8,16 @@
     <language>en-us</language>
     <atom:link href="https://joestanley3.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>https://joestanley3.github.io/page/about/</link>
+      <title>ReadMe</title>
+      <link>https://joestanley3.github.io/page/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joestanley3.github.io/page/about/</guid>
+      <guid>https://joestanley3.github.io/page/readme/</guid>
       <description>&lt;hr&gt;
-&lt;p&gt;&lt;img alt=&#34;Sharing a birthday with  my nephew.&#34; loading=&#34;lazy&#34; src=&#34;../about.jpg#left&#34; title=&#34;Sharing a birthday with my one year old nephew. We are seated at a picnic table, each with a cupcake in front of us while we quizzically try ice cream.&#34;&gt;I&amp;rsquo;m based in Richmond VA, where I live with my partner and our cat, Nutmeg. I enjoy waffles, wordplay, and worker&amp;rsquo;s rights. When I&amp;rsquo;m not exchanging labor for capital as a product manager, I play and design games, notably tabletop roleplaying games (TTPRGs). Otherwise, my time typically goes toward reading, trying new foods, and avoiding exercise.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Career</title>
-      <link>https://joestanley3.github.io/page/career/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joestanley3.github.io/page/career/</guid>
-      <description>&lt;hr&gt;
+&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m based in Richmond VA, where I live with my partner and our cat, Nutmeg. I enjoy waffles, wordplay, and worker&amp;rsquo;s rights. When I&amp;rsquo;m not exchanging labor for capital as a product manager, I play and design games, notably tabletop roleplaying games (TTPRGs). Otherwise, my time typically goes toward reading, finding joy in small acts of resistance to encroaching fascism, and avoiding exercise.&lt;/p&gt;
 &lt;h3 id=&#34;my-product-philosophy&#34;&gt;My Product Philosophy&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;You don&amp;rsquo;t become a good &lt;del&gt;Communist&lt;/del&gt; &lt;em&gt;Product Manager&lt;/em&gt; by going to meetings or memorizing the &lt;a href=&#34;http://agilemanifesto.org&#34;&gt;Manifesto&lt;/a&gt;. You do it on the streets. You do it with your fists. The rest is bullshit and you know it.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Comrade_Detective&#34;&gt;Gregor Anghel&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h3&gt;
-&lt;p&gt;The theme of my professional life has been:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;working at the intersection of people and technology,&lt;/li&gt;
-&lt;li&gt;usually in highly-regulated industries,&lt;/li&gt;
-&lt;li&gt;to build the foundation for the next stage of the organization.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;It&amp;rsquo;s about getting to the type of place you can&amp;rsquo;t reach by improving business as usual; the place you can only get by getting a lot of knowledgeable people in the room, describing a target, and learning why we can&amp;rsquo;t achieve it today.&lt;/p&gt;</description>
+&lt;p&gt;You don&amp;rsquo;t become a good &lt;del&gt;Communist&lt;/del&gt; &lt;em&gt;Product Manager&lt;/em&gt; by going to meetings or memorizing the &lt;a href=&#34;http://agilemanifesto.org&#34;&gt;Manifesto&lt;/a&gt;. You do it on the streets. You do it with your fists. The rest is bullshit and you know it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
