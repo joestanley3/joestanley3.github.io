@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-draft: false
+draft: true
 ---
 ---
 ![Sharing a birthday with  my nephew.](../about.jpg#left "Sharing a birthday with my one year old nephew. We are seated at a picnic table, each with a cupcake in front of us while we quizzically try ice cream.")I'm based in Richmond VA, where I live with my partner and our cat, Nutmeg. I enjoy waffles, wordplay, and worker's rights. When I'm not exchanging labor for capital as a product manager, I play and design games, notably tabletop roleplaying games (TTPRGs). Otherwise, my time typically goes toward reading, trying new foods, and avoiding exercise.
