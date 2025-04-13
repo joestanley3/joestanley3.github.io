@@ -36,11 +36,7 @@ menu:
     name: Home
     url: /
     weight: 10
-  - identifier: about
-    name: About
-    url: /page/about/
+  - identifier: readme
+    name: ReadMe
+    url: /page/readme/
     weight: 20
-  - identifier: career
-    name: Career
-    url: /page/career/
-    weight: 30
